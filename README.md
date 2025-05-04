@@ -75,3 +75,5 @@ Use Qt5::Widgets in CMakeLists.txt if you're on Qt 5.
 
 📃 License
 MIT License — do whatever you want, just credit if you find it useful 🙂
+more update comming soon
+
